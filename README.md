@@ -44,3 +44,5 @@ npm run start
 * @babel/core: 7.0.0
 * @babel/preset-env: 7.0.0
 * babel-loader: 8.0.0
+
+> The dist folder will be automatically created when you run webpack
