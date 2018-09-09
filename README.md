@@ -1,5 +1,5 @@
-# :boom: Webpack and Babel Starter :boom:
-A starting foundation for your webpack and babel projects :star:
+# Webpack and Babel Starter
+A starting foundation for your webpack and babel projects :boom:
 
 > Install babel-upgrade first before running install to update all the packages and run
 ```
